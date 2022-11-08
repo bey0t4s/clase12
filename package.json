@@ -1,0 +1,15 @@
+{
+  "name": "clase12",
+  "version": "1.0.0",
+  "description": "base de datos",
+  "main": "index.js",
+  "scripts": {
+    "test": "hola"
+  },
+  "repository": {
+    "type": "git",
+    "url": "clase12"
+  },
+  "author": "",
+  "license": "ISC"
+}
