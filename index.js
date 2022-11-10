@@ -14,6 +14,11 @@ app.get('/', (req, res)=> {
     res.send(`<h1>Bienvenido a mi sitio<\h1>`)
   });
 
+app.get();//select 
+app.post();//insert
+app.update();//update
+app.delete();//delete
+
  //5 Conectamos a base de datos
 const conexion = mysql.createConnection({
         host: 'localhost',
