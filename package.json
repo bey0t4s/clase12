@@ -4,7 +4,8 @@
   "description": "base de datos",
   "main": "index.js",
   "scripts": {
-    "test": "hola"
+    "test": "hola",
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
